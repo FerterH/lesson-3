@@ -1,0 +1,8 @@
+metric,value
+none_test_acc,0.8366666666666667
+dropout_0.1_test_acc,0.81
+dropout_0.3_test_acc,0.7933333333333333
+dropout_0.5_test_acc,0.78
+batchnorm_test_acc,0.8333333333333334
+dropout_bn_test_acc,0.7633333333333333
+l2_test_acc,0.8466666666666667

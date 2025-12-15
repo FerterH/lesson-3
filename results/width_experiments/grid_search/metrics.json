@@ -1,0 +1,23 @@
+{
+  "(128, 128, 128)": {
+    "train_accuracy": 0.915,
+    "val_accuracy": 0.8166666666666667,
+    "test_accuracy": 0.8333333333333334,
+    "train_time": 0.28326539999397937,
+    "params": 36099
+  },
+  "(256, 128, 64)": {
+    "train_accuracy": 0.9066666666666666,
+    "val_accuracy": 0.8333333333333334,
+    "test_accuracy": 0.84,
+    "train_time": 0.28793180000502616,
+    "params": 46723
+  },
+  "(512, 256, 128)": {
+    "train_accuracy": 0.9541666666666667,
+    "val_accuracy": 0.8233333333333334,
+    "test_accuracy": 0.84,
+    "train_time": 0.366820800001733,
+    "params": 175363
+  }
+}
